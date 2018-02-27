@@ -1,0 +1,13 @@
+---
+title: "My Website"
+---
+
+#Hello!
+Explore this website created for my data science class.
+
+Embedded R code:
+```{r}
+x <- c(2,3,6)
+y <- c("Dogs", "Otters", "Foxes")
+```
+

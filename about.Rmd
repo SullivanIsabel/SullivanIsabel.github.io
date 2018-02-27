@@ -1,0 +1,5 @@
+---
+title: "About This Website"
+---
+
+This website was made using a conmbination of R Markdown and GitHub for a Data Science 1 class. A content page contains information about pika.
